@@ -1,0 +1,2 @@
+En el archivo .htaccess agregar la siguiente linea de código:
+php_flag output_buffering on

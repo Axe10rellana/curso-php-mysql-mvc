@@ -1,0 +1,10 @@
+<link rel="icon" type="image/x-icon" href="<?php echo SERVERURL; ?>vistas/assets/icons/favicon.png" />
+<link rel="favicon" type="image/x-icon" href="<?php echo SERVERURL; ?>vistas/assets/icons/favicon.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="<?php echo SERVERURL; ?>vistas/assets/icons/favicon.png" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/bootstrap-material-design.min.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/all.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/sweetalert2.min.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/jquery.mCustomScrollbar.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SERVERURL; ?>vistas/css/style.css" />
